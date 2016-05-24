@@ -9,7 +9,7 @@
     position: absolute;
     width: 520px;
     text-align: center;
-    margin: auto;
+    margin: 175px 420px 195px 420px;
 }
 
 .header h1{
@@ -158,8 +158,8 @@ p {
 }
 .col-xs-6 {
     width: 500px;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0;
+    padding-left: 0;
 }
 .play {
     margin: 110px 217px;
@@ -178,16 +178,40 @@ p {
     font-size: 19px;
     font-style: normal;
     font-weight: 400;
+    line-height: 30px;
 }
 
 .feature p{
     color: #828282;
     font-family: Ubuntu, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
+    margin-bottom: 30px;
 }
 
 .nav {
     margin: 235px 0 15px 13px;
 }
+
+.left_block {
+    margin-top: 115px;
+    margin-left: 13px;
+    width: 425px;
+}
+
+.right_block {
+    margin-left: 13px;
+    margin-top: 110px;
+    width: 425px;
+}
+
+.link{
+    text-transform: uppercase;
+    font-size: 17px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    color: #2cc7c1;
+    margin-top: 40px;
+}
+
