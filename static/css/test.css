@@ -9,7 +9,7 @@
     position: absolute;
     width: 520px;
     text-align: center;
-    margin: 173px 425px 195px 420px;
+    margin: auto;
 }
 
 .header h1{
@@ -81,7 +81,7 @@ p {
 }
 
 .container {
-    margin: 0 195px;
+    margin: 0 auto;
     width: 1000px;
 }
 
@@ -91,8 +91,7 @@ p {
     font-size: 25px;
     font-weight: 400;
     text-transform: uppercase;
-    margin-bottom: 0;
-    margin-left: 565px;
+    margin: auto;
     width: 230px;
 }
 
@@ -103,11 +102,11 @@ p {
     font-style: normal;
     font-weight: 400;
     text-align: center;
+    margin: auto;
 }
 
 .description {
     width: 450px;
-    margin-left: 450px;
     margin-bottom: 25px;
 }
 
@@ -142,8 +141,8 @@ p {
     width: 122px;
     height: 122px;
 }
-.main {
-    margin-left: 450px;
+.speakers_footer {
+    margin: auto;
     text-align: center;
     width: 450px;
 }
@@ -168,7 +167,27 @@ p {
 
 .feature h2 {
     color: #828689;
+    font-family: Montserrat, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
 }
+.feature h3 {
+    color: #828689;
+    font-family: Ubuntu, sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.feature p{
+    color: #828282;
+    font-family: Ubuntu, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
 .nav {
     margin: 235px 0 15px 13px;
 }
