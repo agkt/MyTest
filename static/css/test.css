@@ -1,0 +1,174 @@
+/*HEADER*/
+.header{
+    height: 724px;
+    background-color: #525b64;
+    margin-bottom: 95px;
+}
+
+.header_content{
+    position: absolute;
+    width: 520px;
+    text-align: center;
+    margin: 173px 425px 195px 420px;
+}
+
+.header h1{
+    font-family: Montserrat, bold, sans-serif;
+    font-size: 27px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 25px 0;
+}
+
+.header p{
+    color: #fff;
+    font-size: 17px;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.btn{
+    font-family: Montserrat, sans-serif;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin: 25px 13px 80px 13px;
+    border: none;
+    width: 135px;
+}
+
+.btn-primary{
+    background: #7ea4e8;
+}
+
+.btn-default{
+    background: #6a7079;
+}
+
+.pointer {
+    height: 15px;
+    margin-left: 6px;
+    margin-bottom: 3px;
+}
+
+.logo {
+    height: 135px;
+    padding-left: 50px;
+}
+
+/*SPEAKERS*/
+.speakers {
+    border-bottom: 8px solid #f0f0f1;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.col-xs-3 {
+    width: 225px;
+    margin-right: 25px;
+}
+
+.col-xs-3:last-child {
+    margin-right: 0;
+}
+
+.container {
+    margin: 0 195px;
+    width: 1000px;
+}
+
+.speakers h2 {
+    color: #6a7079;
+    font-family: Montserrat, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    margin-left: 565px;
+    width: 230px;
+}
+
+.description,.text{
+    color: #828689;
+    font-family: Ubuntu, sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.description {
+    width: 450px;
+    margin-left: 450px;
+    margin-bottom: 25px;
+}
+
+.name {
+    color: #777a7d;
+    font-family: Ubuntu, medium, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.name:hover {
+    color: #2cc7c1;
+}
+
+.information {
+    color: #828282;
+    font-family: Ubuntu, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 65px;
+}
+
+.photo {
+    margin-top: 35px;
+    margin-left: 35px;
+    width: 122px;
+    height: 122px;
+}
+.main {
+    margin-left: 450px;
+    text-align: center;
+    width: 450px;
+}
+
+
+/*VIDEO*/
+.video {
+    background-color: #ececec;
+    width: 487px;
+    height: 270px;
+    margin-left: 13px;
+    margin-top: 110px;
+}
+.col-xs-6 {
+    width: 500px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.play {
+    margin: 110px 217px;
+}
+
+.feature h2 {
+    color: #828689;
+}
+.nav {
+    margin: 235px 0 15px 13px;
+}
